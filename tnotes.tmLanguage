@@ -112,7 +112,7 @@
 				</dict>
 			</array>
 		</dict>
-		<dict>
+		<!-- <dict>
 			<key>begin</key>
 			<string>(\[)(asp|asa)(\])</string>
 			<key>beginCaptures</key>
@@ -162,7 +162,7 @@
 					<string>source.asp</string>
 				</dict>
 			</array>
-		</dict>
+		</dict> -->
 		<dict>
 			<key>begin</key>
 			<string>(\[)(c)(\])</string>
